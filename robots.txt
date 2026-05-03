@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Inge-Pro.github.io/resources-ukkp4p/sitemap.xml
